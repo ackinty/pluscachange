@@ -1,0 +1,68 @@
+---
+---
+@import "minima";
+
+html {
+  background: transparent;
+  color: white;
+}
+
+body {
+  background-image: url("https://www.gameontabletop.com/contenu/partners/bbe/image/Shadowrun_6_Free_Seattle/Pic18_Giletti_v1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+.site-title,
+.site-title:visited {
+  color: purple;
+  font-size: 200%;
+  font-style: italic;
+}
+
+.page-content {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 1.5em;
+  border-radius: 8px;
+  color: white;
+}
+
+.post-content.e-content {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 1.5em;
+  border-radius: 8px;
+  color: white;
+}
+
+.rss-subscribe {
+  display: none;
+}
+
+.post-meta {
+  color: white;
+}
+
+h2.footer-heading {
+  color: white;
+}
+
+a:link,
+a:visited {
+  color: #8e005f;
+}
+
+a.page-link,
+a.page-link:visited {
+  color: white;
+}
+
+.footer-col-wrapper {
+  color: white;
+}
+
+.trigger {
+  color: white;
+}
