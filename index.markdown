@@ -22,4 +22,4 @@ Pour vous aider à découvrir nos *Actual Plays*, voici des liens vers les premi
 
 ## Ombres Portés 2.0
 
-Une des activités principales de *Ombres Portées 2.0* est la traduction d'anciens suppléments *Shadowrun* inédit en Français. Les titres que nous avons déjà traduit sont disponibles sur la [boutique en ligne de BBE](https://shop.black-book-editions.fr/catalogue/arbo/8/precedentes-editions?searchText=Shadowrun+H%C3%A9ritage). N'hésitez pas à nous contacter (<contact@shadowrun-jdr.fr>) si vous souhaitez nous rejoindre et nous aider à traduire ou relire nos travaux !
+Une des activités principales de *Ombres Portées 2.0* est la traduction d'anciens suppléments *Shadowrun* inédit en Français. Les titres que nous avons déjà traduit sont disponibles sur la [boutique en ligne de BBE](https://shop.black-book-editions.fr/catalogue/recherche?searchText=Shadowrun+H%C3%A9ritage). N'hésitez pas à nous contacter (<contact@shadowrun-jdr.fr>) si vous souhaitez nous rejoindre et nous aider à traduire ou relire nos travaux !
